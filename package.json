@@ -1,0 +1,15 @@
+{
+  "name": "functional-javascript",
+  "version": "1.0.0",
+  "description": "practising functional javascript",
+  "main": "index.js",
+  "repository": "git@github.com:idanceinbetween/functional-javascript.git",
+  "author": "JiaXuan Hon <46828701+idanceinbetween@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
