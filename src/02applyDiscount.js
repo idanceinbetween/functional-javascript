@@ -21,5 +21,4 @@ const applyDiscount = (price, discount) => {
     return cost - cost * savings
 }
 
-const result = applyDiscount('$5.00', '20%')
-console.log(result)
+module.exports = applyDiscount
