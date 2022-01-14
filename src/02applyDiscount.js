@@ -5,7 +5,7 @@ const Box = x =>
         inspect: () => `Box(${x})`,
     })
 
-// TASK : convert imperative code in the 3 functions to 3 expressions
+// TASK : Refactor imperative code to a single composed expression using Box
 
 const moneyToFloat = str => parseFloat(str.replace(/\$/g, ''))
 
